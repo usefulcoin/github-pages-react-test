@@ -2,7 +2,7 @@
   "name": "browser-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "github-pages-react-test.usefulcoin.com",
+  "homepage": "http://github-pages-react-test.usefulcoin.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
